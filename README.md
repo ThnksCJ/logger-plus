@@ -1,9 +1,9 @@
-# Node.js log util
+# Logger Plus
 
 ## Usage 
 
 ```js
-const log = require('./log.js')
+const log = require("@thnkscj/logger-plus");
 
 log.CLEAR()
 log.FATAL(`uh oh`)
